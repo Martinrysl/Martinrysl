@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Reyes</h1>
-<h3 align="center">Currently learning Web Developing and DevOps</h3>
+<h3 align="center">Python Developer and actually learning DevOps</h3>
 
 - 📫 How to reach me **martinrysl@outlook.com**
 
